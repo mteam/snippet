@@ -1,0 +1,11 @@
+{
+  "name": "snippet",
+  "repo": "mteam/snippet",
+  "version": "0.1.0",
+  "dependencies": {
+    "mteam/rect": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
